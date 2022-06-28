@@ -19,3 +19,6 @@ Activity 3: Make the robot follow a straight and curved line
 - Challenge #3 (Hard) : Upon detecting an obstacle, make the robot stop, beep, delay for five seconds, beep then move again
  
 Activity 4: Make the robot follow a mining route, only stopping when it detects an obstacle in front of it with it's the bumper whiskers or a loading point (to simulate loading ore) before moving again.
+- Challenge #1 (Easy) : Track the number of revolutions by exploring the encoder
+- Challenge #2 (Med)  : Determine how far the RedBot moves using the circumference of the wheel
+- Challenge #3 (Hard) : Driving straight more accurately
